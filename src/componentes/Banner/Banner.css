@@ -1,0 +1,29 @@
+/* src/components/Banner.css */
+.banner {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+  
+  .banner-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .banner-content {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    color: white;
+    max-width: 50%;
+  }
+  
+  .banner-tag {
+    background-color: #00aaff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    display: inline-block;
+    margin-bottom: 20px;
+  }
